@@ -1,5 +1,0 @@
-.env/
-.secrets/
-.__pycache__/
-.gitignore
-.Dockerfile
